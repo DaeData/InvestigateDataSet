@@ -1,2 +1,2 @@
-# Project-2
-Udacity Proejct 2
+# Project 2
+Investigate a Dataset
